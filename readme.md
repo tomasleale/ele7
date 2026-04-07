@@ -1,4 +1,4 @@
-#Encuesta longitudinal de empresas v7 - Minecon
+# Encuesta Longitudinal de Empresas v7 - Minecon
 
 ## Descripción
 
