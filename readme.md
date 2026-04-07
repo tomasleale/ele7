@@ -50,4 +50,4 @@ secciones de actividad económica.
      - ele7.csv: Dataset con la información de la encuesta longitudinal de empresas 7.
      - ele7.txt: Dataset con la información de la encuesta en formato texto plano
    - /cuestionarios: Cuestionarios de la encuesta longitudinal de empresas 7.
-   -
+   - /metodologia: Documento metodológico de la encuesta
