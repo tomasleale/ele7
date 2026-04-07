@@ -44,3 +44,8 @@ secciones de actividad económica.
    liarias” (L) y “Actividades de servicios administrativos y de apoyo” (N).
 3. Otros servicios (R-S) incorporan las “Actividades artísticas, de entretenimiento y re-
    creativas’” (R) y “Otras actividades de servicios” (S).
+
+   ## Contenido del repositorio
+   - ele7.csv: Dataset con la información de la encuesta longitudinal de empresas 7.
+   - ele7.txt: Dataset con la información de la encuesta en formato texto plano
+   -
