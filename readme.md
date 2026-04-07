@@ -46,6 +46,8 @@ secciones de actividad económica.
    creativas’” (R) y “Otras actividades de servicios” (S).
 
    ## Contenido del repositorio
-   - ele7.csv: Dataset con la información de la encuesta longitudinal de empresas 7.
-   - ele7.txt: Dataset con la información de la encuesta en formato texto plano
+   - /data
+     - ele7.csv: Dataset con la información de la encuesta longitudinal de empresas 7.
+     - ele7.txt: Dataset con la información de la encuesta en formato texto plano
+   - /cuestionarios: Cuestionarios de la encuesta longitudinal de empresas 7.
    -
