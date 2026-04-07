@@ -33,3 +33,14 @@ pertenecientes al panel, disminuyendo el límite de inclusión a 500 UF.
 | L/N     | Actividades de servicios                            |
 | M       | Actividades profesionales, científicas y técnicas   |
 | R/S     | Otros servicios                                     |
+
+Tal como se observa en la tabla anterior, para el desarrollo del estudio se agrupan las siguientes
+secciones de actividad económica3.
+
+1. Suministro de electricidad, gas y agua (D-E) queda conformada por los sectores de
+   “Suministro de electricidad, gas, vapor y aire acondicionado” (D) y “Suministro de
+   agua; evacuación de aguas residuales, gestión de desechos y descontaminación” (E).
+2. Actividades de servicios (L-N) queda compuesta por los sectores “Actividades inmobi-
+   liarias” (L) y “Actividades de servicios administrativos y de apoyo” (N).
+3. Otros servicios (R-S) incorporan las “Actividades artísticas, de entretenimiento y re-
+   creativas’” (R) y “Otras actividades de servicios” (S).
