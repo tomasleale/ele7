@@ -1,7 +1,5 @@
 # Encuesta Longitudinal de Empresas v7 - Minecon
 
-## Descripción
-
 El Ministerio de Economía, Fomento y Turismo (en adelante, Minecon) se enfoca en impulsar
 importantes reformas que apuntan a fortalecer la competitividad global de la economía y
 perfeccionar el funcionamiento de los mercados. Bajo este marco, desde el 2009 se realiza la
