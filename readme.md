@@ -35,7 +35,7 @@ pertenecientes al panel, disminuyendo el límite de inclusión a 500 UF.
 | R/S     | Otros servicios                                     |
 
 Tal como se observa en la tabla anterior, para el desarrollo del estudio se agrupan las siguientes
-secciones de actividad económica3.
+secciones de actividad económica.
 
 1. Suministro de electricidad, gas y agua (D-E) queda conformada por los sectores de
    “Suministro de electricidad, gas, vapor y aire acondicionado” (D) y “Suministro de
