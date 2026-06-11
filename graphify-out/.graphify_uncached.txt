@@ -1,6 +1,0 @@
-/Users/tomas/github/ele7/readme.md
-/Users/tomas/github/ele7/Cuestionarios/ele7-c1-caracterizacion.pdf
-/Users/tomas/github/ele7/Cuestionarios/ele7-c2-contabilidad_finanzas.pdf
-/Users/tomas/github/ele7/Cuestionarios/ele7-c3-rrhh.pdf
-/Users/tomas/github/ele7/Cuestionarios/ele7-c4-mercados_clientes_proveedores.pdf
-/Users/tomas/github/ele7/metodología/metodologia.pdf
